@@ -1,4 +1,4 @@
-print("Merhaba Etiya") 
+print("Merhaba Etiya 22323") 
 print("Hoş geldiniz") 
 
 #yorum
