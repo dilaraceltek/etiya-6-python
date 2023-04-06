@@ -24,3 +24,23 @@ print(sayilar)
 
 sayilar.clear()              #dizinin içini boşaltır, siler.
 print(sayilar)
+
+#**************************
+#string interpolation
+hello = "Merhaba"
+userName = "Dilara"
+totalText = hello+ " " +userName
+print(hello+ " " +userName)
+print(totalText)
+
+totalText = "{message} Sayın {name}".format(message="Merhaba", name="Dilara")
+print(totalText)
+totalText = "{message} Sayın {name}".format(message=hello, name=userName)
+print(totalText)
+# f-string
+totalText= f"Hoşgeldiniz {userName}"
+print(totalText)
+
+#************************
+
+
