@@ -43,4 +43,24 @@ print(totalText)
 
 #************************
 
+#karar yapıları
+ortalamaNot = input("Lütfen ortalamanızı giriniz: ")
+ortalamaNotAsInteger = int(ortalamaNot)
+
+#input str yapıda veri saklar. sayı gireceksek int, double, float dönüştürmeliyiz.
+
+#if-else blokları
+if ortalamaNotAsInteger > 80:
+    print("Bravo.")
+    
+elif ortalamaNotAsInteger > 60:
+    print("Ortalama.")
+elif ortalamaNotAsInteger > 50:
+    print("Normal.")
+       
+else:
+    print("Maalesef.")
+    print("Kaldınız.")
+
+
 
