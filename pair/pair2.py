@@ -20,7 +20,7 @@ elif  50<= ortalama <=59:
     print("Harf notunuz DD.")
 elif  60<= ortalama <=69:
     print("Harf notunuz CC.")
-elif  80 <= ortalama <=89:
+elif  70 <= ortalama <=79:
     print("Harf notunuz BB.")
 else:
     print("Harf notunuz AA.")
