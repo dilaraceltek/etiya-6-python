@@ -12,4 +12,6 @@ print(krediler)
 
 print(krediler[5])    #liste 3 elemanlı olduğu için hata verecektir.
 print(krediler[0])
+print(krediler[1])
+
 
