@@ -18,5 +18,5 @@ sonucMesaj= mesaj+" "+musteriAdi+" "+musteriSoyadi
 print(sonucMesaj) 
 
 sayi1 = 10
-sayi2 = 20
+sayi2 = 30
 print(sayi1+sayi2)
