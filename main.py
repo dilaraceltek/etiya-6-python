@@ -49,4 +49,4 @@ print(number %2)
 #mantıksal operatörler- karşılaştırma operatörleri = < > => ==
 print(number == 10)
 print(number == 11)
-print(number != 10) #eşit olmama durumu
+print(number != 10) #eşit olmama durumudur.
