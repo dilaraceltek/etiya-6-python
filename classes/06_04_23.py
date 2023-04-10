@@ -39,7 +39,7 @@ totalText = "{message} Sayın {name}".format(message=hello, name=userName)
 print(totalText)
 # f-string
 totalText= f"Hoşgeldiniz {userName}"
-print(totalText)
+print(totalText)   #metni birleştirmeyi işe yarıyor.
 
 #************************
 
